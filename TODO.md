@@ -1,1 +1,1 @@
-- [ ] Add repo to CodeSandbox
+- [x] Add repo to CodeSandbox
